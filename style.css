@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient( to left, rgb(89, 174, 231), rgb(33, 86, 155), rgb(136, 150, 189));
+    color:rgba(23, 35, 146, 0.74)
+    
+}
+H2{
+    background-color: rgb(95, 120, 153);
+}
+
+#imagemcultura{
+    width: 50%;
+}
